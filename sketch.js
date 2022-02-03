@@ -147,7 +147,7 @@ function draw() {
      //reset();
       //
     //}
-    if ( touches.lenght > 0 || keyDown("space")){
+    if ( touches.length > 0 || keyDown("space")){
     reset();
     touches=[];
     }
